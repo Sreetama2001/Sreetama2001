@@ -2,7 +2,7 @@
 
  
  ![gif2](https://user-images.githubusercontent.com/73426684/140478963-a73a6c5d-bf46-435a-a1d5-d6bb03d76869.gif)
--  An Noob coder
+-  A Noob coder
 
 -  Fighting hard with procrastination!!
 
