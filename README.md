@@ -1,6 +1,8 @@
 - ## 👋 Hi, I’m Sreetama Ghosh Hazra
+You are the 
+![Visitor Count](https://profile-counter.glitch.me/{Sreetama2001}/count.svg) th one
 
- 
+
  ![gif2](https://user-images.githubusercontent.com/73426684/140478963-a73a6c5d-bf46-435a-a1d5-d6bb03d76869.gif)
 -  A Noob coder
 
@@ -18,10 +20,10 @@
 ![](https://img.shields.io/badge/<code>-C/C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<code>-python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<code>-JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Learning-DL:RNN & CNN-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hovers around-Space tech-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hovers around-Foreign/Current affairs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Interested in -Cool projects-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Learning-DL:RNN&CNN-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hoversaround-Spacetech-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hoversaround-Foreign/Currentaffairs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Interestedin-Coolprojects-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Loves-Cricket-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Loves-Badminton-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Loves-Music-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
