@@ -1,8 +1,15 @@
 - ## 👋 Hi, I’m Sreetama Ghosh Hazra
+
+ 
+ ![gif2](https://user-images.githubusercontent.com/73426684/140478963-a73a6c5d-bf46-435a-a1d5-d6bb03d76869.gif)
 -  An Noob coder
--  A procasisnator 
-- But still you can't figure out that i am 'crazy' at first our meeting !!
-# Missed out the word, 'Pro...' !! 😂 
+
+-  Fighting hard with procrastination!!
+
+ Haven't figured out that i am 'crazy' at first our meeting !!😲 
+ 
+ Buddy let's collaborate on some ideas ! 🤧
+
 
 ![git](https://user-images.githubusercontent.com/73426684/140474545-0c00ab70-084f-4b10-89d4-276ac2757d24.gif)
  
@@ -18,6 +25,9 @@
 <!-- Actual text -->
 
 Any crazy ideas floating ?? 
+
+![codeit](https://user-images.githubusercontent.com/73426684/140478779-540443c1-7449-4914-9318-b0333cc85d87.gif)
+
 I am just one tweet away [![Twitter][1.2]][1]
 
 
