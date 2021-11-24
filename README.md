@@ -1,6 +1,8 @@
 - ## 👋 Hi, I’m Sreetama Ghosh Hazra
-You are the 
-![Visitor Count](https://profile-counter.glitch.me/{Sreetama2001}/count.svg)  th one
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Sreetama2001.Sreetama2001&left_text=MyPage%20Visitors&left_color=red&right_color=green) 
+)
+
 
 
  ![gif2](https://user-images.githubusercontent.com/73426684/140478963-a73a6c5d-bf46-435a-a1d5-d6bb03d76869.gif)
