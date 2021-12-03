@@ -1,4 +1,6 @@
-- ## 👋 Hi, I’m Sreetama Ghosh Hazra
+- ## 👋 Ahoy!!
+ 
+  # I’m Sreetama Ghosh Hazra
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Sreetama2001.Sreetama2001&left_text=MyPage%20Visitors&left_color=red&right_color=green) 
 
