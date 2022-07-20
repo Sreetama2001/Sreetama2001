@@ -12,7 +12,7 @@
 
 -  Fighting hard with procrastination!!
 
- Haven't figured out that i am 'crazy' at first our meeting !!😲 
+ Haven't figured out that i am 'crazy' on my intro ? 😲 
  
  Buddy let's collaborate on some ideas ! 🤧
 
