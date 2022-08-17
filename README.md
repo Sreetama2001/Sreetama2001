@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Loves-Badminton-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Loves-Music-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-- 📫  Gmail : fool100abc@gmail.com 
+- 📫  Gmail ▶️ fool100abc@gmail.com 
 
 <!-- Actual text -->
 
@@ -45,7 +45,7 @@ I am just one tweet away [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]:https://www.pinterest.com/pin/618048748857182162/
 
 <!-- Links to your social media accounts -->
 
