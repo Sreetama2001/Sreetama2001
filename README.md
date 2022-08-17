@@ -45,7 +45,7 @@ I am just one tweet away [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]:https://www.pinterest.com/pin/618048748857182162/
+[1.2]: http://i.imgur.com/tXSoThF.png
 
 <!-- Links to your social media accounts -->
 
