@@ -22,7 +22,7 @@
 - # 🔥Interests & Skills 🤓 
 ![](https://img.shields.io/badge/<code>-C/C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<code>-python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<code>-JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Learning-DL:RNN&CNN-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hoversaround-Spacetech-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hoversaround-Foreign/Currentaffairs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
