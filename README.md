@@ -39,17 +39,18 @@ Any crazy ideas floating ??
 
 ![codeit](https://user-images.githubusercontent.com/73426684/140478779-540443c1-7449-4914-9318-b0333cc85d87.gif)
 
-I am just one tweet away [![Twitter][1.2]][1]
-
-
+I am just one tweet away 
+<a href="https://twitter.com/HazraSreetama">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+</a>
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/tXSoThF.png
+<!-- [1.2]: http://i.imgur.com/tXSoThF.png
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/HazraSreetama
+<!-- [1]: https://twitter.com/HazraSreetama --> 
 
 
   Happy coding !!!
