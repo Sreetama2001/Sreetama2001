@@ -31,6 +31,9 @@
 ![](https://img.shields.io/badge/Loves-Badminton-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Loves-Music-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+- # Badges
+[![@sree's Holopin board](https://holopin.io/api/user/board?user=sree)](https://holopin.io/@sree)
+
 - 📫  Gmail ▶️ fool100abc@gmail.com 
 
 <!-- Actual text -->
