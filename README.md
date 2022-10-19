@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello Devlopers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Hello Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <p align="center">   
@@ -12,7 +12,7 @@ Hello Devlopers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 ## 📈 Github Stats
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sreetama2001&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreetama2001&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sreetama2001&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ff8566,e6e600,ff3333,66ccff&theme=graywhite"/><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreetama2001&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,b3ffb3,66ff66,1aff1a,ffff1a,ff99e6,ac00e6,8000ff&theme=graywhite" />
 
 
 
