@@ -2,11 +2,6 @@
 Hello Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
- <p align="center"> 
-  Visitor count<br>
-<img src="https://profile-counter.glitch.me/Sreetama2001/count.svg" />
-</p>
-
 <p align="center">  
   <a href="https://twitter.com/HazraSreetama" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="mailto:fool100abc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
