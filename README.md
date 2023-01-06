@@ -11,9 +11,10 @@ Hello Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
 </p>
 
 
-## 📈 Github Stats
+<!-- ## 📈 Github Stats
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sreetama2001&count_private=true&include_all_commits=true&line_height=21&icon_color=000&bg_color=0,ff8566,e6e600,ff3333,66ccff&hide_title=true&hide_border=true&show_icons=true&theme=graywhite" />&nbsp;&nbsp;&nbsp;<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreetama2001&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,b3ffb3,66ff66,1aff1a,ffff1a,ff99e6,ac00e6,8000ff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sreetama2001&count_private=true&include_all_commits=true&line_height=21&icon_color=000&bg_color=0,ff8566,e6e600,ff3333,66ccff&hide_title=true&hide_border=true&show_icons=true&theme=graywhite" />&nbsp;&nbsp;&nbsp;
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreetama2001&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,b3ffb3,66ff66,1aff1a,ffff1a,ff99e6,ac00e6,8000ff&theme=graywhite"/> -->
 
 <!-- ### Lines of Code Analysis  -->
 
