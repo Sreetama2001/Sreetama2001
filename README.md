@@ -124,7 +124,7 @@ I am Sreetama Ghosh Hazra <br><br>
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only) -->
 <!-- https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only -->
 <h2 align ="left">
- <b>GitHub Statistics</b>
+ <b>GitHub Statistics</b><br>
  <img alt="Languages"src="https://raw.githubusercontent.com/Sreetama2001/github-stats/master/generated/overview.svg#gh-dark-mode-only">
   <img alt="Languages"src="https://raw.githubusercontent.com/Sreetama2001/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </h2>
