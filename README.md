@@ -96,7 +96,7 @@ I am Sreetama Ghosh Hazra <br><br>
 
 
 <h2 align= "left">
- <b>Hackathons Won</b> <br><br>
+ <b> 🏆 Hackathons Won</b> <br><br>
   <a href ="">
  <img alt="Shebuilds" src ="https://img.shields.io/badge/SheBuilds-2nd-pink?style=for-the-badge&logo=appveyor">
   </a>
@@ -124,7 +124,7 @@ I am Sreetama Ghosh Hazra <br><br>
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only) -->
 <!-- https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only -->
 <h2 align ="left">
- <b>GitHub Statistics</b><br>
- <img alt="Languages"src="https://raw.githubusercontent.com/Sreetama2001/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img alt="Languages"src="https://raw.githubusercontent.com/Sreetama2001/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+ <b> 📊 GitHub Statistics </b><br>
+ <img alt="Languages"src="https://raw.githubusercontent.com/Sreetama2001/My-github-stats/f54c718825144152108ef353cbca0dcde32b7e17/generated/languages.svg">
+  <img alt="Languages"src="https://raw.githubusercontent.com/Sreetama2001/My-github-stats/5606a8a02f807caa2156ed472961ec86bdf9077c/generated/overview.svg">
 </h2>
