@@ -16,14 +16,17 @@ I am Sreetama Ghosh Hazra <br><br>
 <img src="https://img.shields.io/github/followers/Sreetama2001?color=yellow&logo=github&style=for-the-badge">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HazraSreetama?color=yellow&style=for-the-badge">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Sreetama2001?color=yellow&style=for-the-badge">
+<a href="https://www.dropbox.com/s/8p3dpdfl6n4t55k/Sreetama%20ghosh%20hazra_resume.pdf?dl=0">
+<img alt= "resume-not-updated" src="https://img.shields.io/badge/Resume-click-yellow?style=for-the-badge">
+</a>
 <!-- <img alt="GitHub User's stars" src="https://img.shields.io/badge/views-1000-yellow"> -->
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Sreetama2001?color=blue&logo=github&style=for-the-badge) -->
 </h3>
 
 <h2 align= "left">
- I am prefinal year student pursing CSE-AIML. I am passionate about open source technologies and aspire to learn and contribute more to the community. I specialize in MLOps , DL and backend development. Currently I am diving into the world of web3 and hoping to soon make a project on it 😉. 
+<b><i>About Myself </b></i>
 </h2> 
-
+<p> I am prefinal year student pursing <b>CSE-AIML</b>. I am passionate about open source technologies and aspire to learn and contribute more to the community. I specialize in <b><i>MLOps, DL and backend development</b></i>. Currently I am diving into the world of <b><i>Web3</i></b> and hoping to soon make a project on it 😉. </p>
 
 ##  ⚡ Familiar Technologies
 ### 💻 Languages 
@@ -86,3 +89,21 @@ I am Sreetama Ghosh Hazra <br><br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
  
+<!-- ## Hackathons Won 
+![Shebuilds](https://img.shields.io/badge/SheBuilds-2nd-pink?style=for-the-badge&logo=appveyor)
+![Hack the Mountains](https://img.shields.io/badge/HTM%203.0-3rd-orange?style=for-the-badge&logo=appveyor)
+![HackFest](https://img.shields.io/badge/Hackfest-1st-yellow?style=for-the-badge&logo=appveyor) -->
+
+
+<h2 align= "left">
+ <b>Hackathons Won</b> <br><br>
+  <a href ="">
+ <img alt="Shebuilds" src ="https://img.shields.io/badge/SheBuilds-2nd-pink?style=for-the-badge&logo=appveyor">
+  </a>
+  <a href ="https://certificate.givemycertificate.com/c/de9f811a-84f5-41d0-b595-6e5cd884154f">
+ <img alt="HackTheMountains 3.0" src ="https://img.shields.io/badge/HTM%203.0-3rd-orange?style=for-the-badge&logo=appveyor">
+   </a>
+  <a href="https://drive.google.com/file/d/1CGJm6ID_B96WXkXXGa30OaVXHStugCWp/view">
+ <img alt="Hackfest" src ="https://img.shields.io/badge/Hackfest-1st-yellow?style=for-the-badge&logo=appveyor">
+    </a>
+</h2> 
