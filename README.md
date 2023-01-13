@@ -20,6 +20,11 @@ I am Sreetama Ghosh Hazra <br><br>
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Sreetama2001?color=blue&logo=github&style=for-the-badge) -->
 </h3>
 
+<h2 align= "left">
+ I am prefinal year student pursing CSE-AIML. I am passionate about open source technologies and aspire to learn and contribute more to the community. I specialize in MLOps , DL and backend development. Currently I am diving into the world of web3 and hoping to soon make a project on it 😉. 
+</h2> 
+
+
 ##  ⚡ Familiar Technologies
 ### 💻 Languages 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
