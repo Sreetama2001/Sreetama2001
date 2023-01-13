@@ -107,3 +107,18 @@ I am Sreetama Ghosh Hazra <br><br>
  <img alt="Hackfest" src ="https://img.shields.io/badge/Hackfest-1st-yellow?style=for-the-badge&logo=appveyor">
     </a>
 </h2> 
+
+<!-- <h2 align= "left">
+ <b>Projects</b> <br><br>
+  <a href ="">
+ <img alt="Shebuilds" src ="https://img.shields.io/badge/SheBuilds-2nd-pink?style=for-the-badge&logo=appveyor">
+  </a>
+  <a href ="https://certificate.givemycertificate.com/c/de9f811a-84f5-41d0-b595-6e5cd884154f">
+ <img alt="HackTheMountains 3.0" src ="https://img.shields.io/badge/HTM%203.0-3rd-orange?style=for-the-badge&logo=appveyor">
+   </a>
+  <a href="https://drive.google.com/file/d/1CGJm6ID_B96WXkXXGa30OaVXHStugCWp/view">
+ <img alt="Hackfest" src ="https://img.shields.io/badge/Hackfest-1st-yellow?style=for-the-badge&logo=appveyor">
+    </a>
+</h2> -->
+
+
