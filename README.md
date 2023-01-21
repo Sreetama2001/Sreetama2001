@@ -14,7 +14,7 @@ Hello Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
 <h3 align= "center">
 I am Sreetama Ghosh Hazra <br><br>
 <img src="https://img.shields.io/github/followers/Sreetama2001?color=yellow&logo=github&style=for-the-badge">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HazraSreetama?color=yellow&style=for-the-badge">
+<!-- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HazraSreetama?color=yellow&style=for-the-badge"> -->
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Sreetama2001?color=yellow&style=for-the-badge">
 <a href="https://www.dropbox.com/s/8p3dpdfl6n4t55k/Sreetama%20ghosh%20hazra_resume.pdf?dl=0">
 <img alt= "resume-not-updated" src="https://img.shields.io/badge/Resume-click-yellow?style=for-the-badge">
